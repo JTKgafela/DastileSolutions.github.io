@@ -1,0 +1,253 @@
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.dll.config
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.pdb
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.exe
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.exe
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.dll
+C:\Users\user\OneDrive\Desktop\IFM3A\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.pdb
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.dll.config
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.pdb
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.exe
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.exe.config
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.rsp
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.exe
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.exe.config
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.rsp
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.AppContext.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Console.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Net.Http.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.exe
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.exe.config
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.rsp
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.AssemblyReference.cache
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.CoreCompileInputs.cache
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.CopyComplete
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.pdb
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Newtonsoft.Json.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\RestSharp.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Buffers.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Memory.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Numerics.Vectors.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Text.Encodings.Web.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Text.Json.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.ValueTuple.dll
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Newtonsoft.Json.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\RestSharp.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Buffers.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Memory.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Numerics.Vectors.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Text.Encodings.Web.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Text.Json.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Nomonde\Desktop\github\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.ValueTuple.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.dll.config
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\DidiBargerNewLook.pdb
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Net.Http.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\RestSharp.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Buffers.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Memory.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Numerics.Vectors.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Text.Encodings.Web.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Text.Json.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\RestSharp.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Buffers.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Memory.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Numerics.Vectors.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Text.Encodings.Web.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Text.Json.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\System.ValueTuple.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.csproj.CopyComplete
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.dll
+C:\Users\ACER\Desktop\Kgafela\ACADEMICS\3rd Year\Informatics 3B\Practicals\Temp\Team35\DidiBargerNewLook\DidiBargerNewLook\obj\Debug\DidiBargerNewLook.pdb
